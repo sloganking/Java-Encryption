@@ -6,3 +6,8 @@ This project contains older code that is no longer representative of my coding a
 ## Warning
 
 The encryption algorithm contained in this project was made for educational purposes and should not be used in any production environment.
+
+
+## Details
+
+This project implements a [Symmetric-key encryption algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) via [substitution–permutation network](https://en.wikipedia.org/wiki/Substitution%E2%80%93permutation_network)
