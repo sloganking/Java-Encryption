@@ -10,4 +10,4 @@ The encryption algorithm contained in this project was made for educational purp
 
 ## Details
 
-This project implements a [Symmetric-key encryption algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) via [substitution–permutation network](https://en.wikipedia.org/wiki/Substitution%E2%80%93permutation_network)
+This project implements a [symmetric-key encryption algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) via [substitution–permutation network](https://en.wikipedia.org/wiki/Substitution%E2%80%93permutation_network)
